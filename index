@@ -1,0 +1,16 @@
+<div id="myShop">
+    <a href="https://dylanshoobridge.myspreadshop.co.uk">dylanshoobridge</a>
+</div>
+
+<script>
+    var spread_shop_config = {
+        shopName: 'dylanshoobridge',
+        locale: 'en_GB',
+        prefix: 'https://dylanshoobridge.myspreadshop.co.uk',
+        baseId: 'myShop'
+    };
+</script>
+
+<script type="text/javascript"
+        src="https://dylanshoobridge.myspreadshop.co.uk/shopfiles/shopclient/shopclient.nocache.js">
+</script>
